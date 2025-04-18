@@ -43,6 +43,6 @@ Once everything is running, open your browser at http://localhost:5173
 Enter the EC2 instance IP, select a time range and interval, and click "Load" to view the CPU usage chart in real-time.
 
 ## Created by
-- Lior Amitay
+ Lior Amitay
 
 ## Have Fun!
