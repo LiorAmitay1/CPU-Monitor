@@ -2,15 +2,6 @@
 This web dashboard allows you to monitor CPU usage of a remote EC2 instance in real-time using AWS CloudWatch metrics.  
 Built with **Vue.js**, **Chart.js**, and a **Node.js** backend.
 
-
-## Screenshots
-### Home Screen
-![Home Screen](./HomeScreen.png)
-
-### Load CPU Monitoring
-![Load CPU Monitoring](./LoadCPUMonitoring.png)
-![Advanced Load Monitoring](./advanced_Load_monitoring.png)
-
 ## Features
 - Real-time CPU monitoring from AWS CloudWatch
 - Dynamic selection of time ranges and intervals
@@ -41,6 +32,14 @@ You can copy the structure from the provided .env.example file.
 
 Once everything is running, open your browser at http://localhost:5173  
 Enter the EC2 instance IP, select a time range and interval, and click "Load" to view the CPU usage chart in real-time.
+
+## Screenshots
+### Home Screen
+![Home Screen](./HomeScreen.png)
+
+### Load CPU Monitoring Examples
+![Load CPU Monitoring](./LoadCPUMonitoring.png)
+![Advanced Load Monitoring](./advanced_Load_monitoring.png)
 
 ## Created by
  Lior Amitay
